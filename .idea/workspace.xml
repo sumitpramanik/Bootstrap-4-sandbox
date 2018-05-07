@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="029879a7-d90b-48ed-ad6c-e47fbd2cb73c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_3_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_3_navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_6_input_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_6_input_groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_7_alerts_progress.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_7_alerts_progress.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_6_input_groups.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3_6_input_groups.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_6_input_groups.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
+            <state relative-caret-position="115">
               <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_7_alerts_progress.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_7_alerts_progress.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="154" column="16" selection-start-line="154" selection-start-column="16" selection-end-line="154" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#13;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +82,7 @@
         <option value="$PROJECT_DIR$/3_5_forms.html" />
         <option value="$PROJECT_DIR$/3_3_navbar.html" />
         <option value="$PROJECT_DIR$/3_6_input_groups.html" />
+        <option value="$PROJECT_DIR$/3_7_alerts_progress.html" />
       </list>
     </option>
   </component>
@@ -80,7 +92,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-3" />
     <option name="y" value="23" />
     <option name="width" value="821" />
@@ -240,15 +252,15 @@
       <workItem from="1525311028518" duration="20360000" />
       <workItem from="1525414174421" duration="362000" />
       <workItem from="1525414550482" duration="1813000" />
-      <workItem from="1525651610793" duration="8681000" />
+      <workItem from="1525651610793" duration="9183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31216000" />
+    <option name="totallyTimeSpent" value="31718000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="23" width="821" height="796" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -262,10 +274,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3204578" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26666668" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32862645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18311875" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,8 +464,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_6_input_groups.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
+        <state relative-caret-position="115">
           <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_7_alerts_progress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="154" column="16" selection-start-line="154" selection-start-column="16" selection-end-line="154" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#13;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
