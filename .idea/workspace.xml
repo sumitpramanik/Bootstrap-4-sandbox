@@ -16,8 +16,14 @@
       <file leaf-file-name="3_8_tables_pagination.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3_8_tables_pagination.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="360" column="24" selection-start-line="360" selection-start-column="24" selection-end-line="360" selection-end-column="24" />
+            <state relative-caret-position="265">
+              <caret line="355" column="49" selection-start-line="355" selection-start-column="49" selection-end-line="355" selection-end-column="49" />
+              <folding>
+                <element signature="n#table#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#table#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,7 +89,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-3" />
     <option name="y" value="23" />
-    <option name="width" value="844" />
+    <option name="width" value="802" />
     <option name="height" value="796" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -240,15 +246,15 @@
       <workItem from="1525311028518" duration="20360000" />
       <workItem from="1525414174421" duration="362000" />
       <workItem from="1525414550482" duration="1813000" />
-      <workItem from="1525651610793" duration="11665000" />
+      <workItem from="1525651610793" duration="12928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34200000" />
+    <option name="totallyTimeSpent" value="35463000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="23" width="844" height="796" extended-state="0" />
+    <frame x="-3" y="23" width="802" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -265,7 +271,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31473532" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.319202" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.319202" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -472,8 +478,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_8_tables_pagination.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="360" column="24" selection-start-line="360" selection-start-column="24" selection-end-line="360" selection-end-column="24" />
+        <state relative-caret-position="265">
+          <caret line="355" column="49" selection-start-line="355" selection-start-column="49" selection-end-line="355" selection-end-column="49" />
+          <folding>
+            <element signature="n#table#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#table#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
