@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029879a7-d90b-48ed-ad6c-e47fbd2cb73c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/3_8_tables_pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_8_tables_pagination.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_9_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_9_cards.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_8_tables_pagination.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3_8_tables_pagination.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_8_tables_pagination.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="355" column="49" selection-start-line="355" selection-start-column="49" selection-end-line="355" selection-end-column="49" />
+            <state relative-caret-position="3187">
+              <caret line="347" column="80" lean-forward="true" selection-start-line="347" selection-start-column="80" selection-end-line="347" selection-end-column="80" />
               <folding>
                 <element signature="n#table#1;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#table#2;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -28,13 +28,27 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="3_9_cards.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_9_cards.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="419" column="18" lean-forward="true" selection-start-line="419" selection-start-column="18" selection-end-line="419" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>stare</find>
       <find>class</find>
+      <find>class=</find>
+      <find>class=&quot;(.*?)&quot;</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -77,6 +91,7 @@
         <option value="$PROJECT_DIR$/3_6_input_groups.html" />
         <option value="$PROJECT_DIR$/3_7_alerts_progress.html" />
         <option value="$PROJECT_DIR$/3_8_tables_pagination.html" />
+        <option value="$PROJECT_DIR$/3_9_cards.html" />
       </list>
     </option>
   </component>
@@ -246,15 +261,15 @@
       <workItem from="1525311028518" duration="20360000" />
       <workItem from="1525414174421" duration="362000" />
       <workItem from="1525414550482" duration="1813000" />
-      <workItem from="1525651610793" duration="12928000" />
+      <workItem from="1525651610793" duration="13913000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35463000" />
+    <option name="totallyTimeSpent" value="36448000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="23" width="802" height="796" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -268,10 +283,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31473532" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26666668" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.319202" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,14 +493,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_8_tables_pagination.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="355" column="49" selection-start-line="355" selection-start-column="49" selection-end-line="355" selection-end-column="49" />
+        <state relative-caret-position="3187">
+          <caret line="347" column="80" lean-forward="true" selection-start-line="347" selection-start-column="80" selection-end-line="347" selection-end-column="80" />
           <folding>
             <element signature="n#table#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#2;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#table#4;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_10_media_object.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_9_cards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="419" column="18" lean-forward="true" selection-start-line="419" selection-start-column="18" selection-end-line="419" selection-end-column="18" />
         </state>
       </provider>
     </entry>
