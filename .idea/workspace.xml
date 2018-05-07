@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029879a7-d90b-48ed-ad6c-e47fbd2cb73c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_7_alerts_progress.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_7_alerts_progress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_8_tables_pagination.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_8_tables_pagination.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,26 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3_6_input_groups.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_6_input_groups.html">
+      <file leaf-file-name="3_8_tables_pagination.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_8_tables_pagination.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3_7_alerts_progress.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_7_alerts_progress.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="143" column="70" selection-start-line="143" selection-start-column="70" selection-end-line="143" selection-end-column="70" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#9;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#11;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#13;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="336">
+              <caret line="316" column="24" selection-start-line="316" selection-start-column="24" selection-end-line="316" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -86,6 +70,7 @@
         <option value="$PROJECT_DIR$/3_3_navbar.html" />
         <option value="$PROJECT_DIR$/3_6_input_groups.html" />
         <option value="$PROJECT_DIR$/3_7_alerts_progress.html" />
+        <option value="$PROJECT_DIR$/3_8_tables_pagination.html" />
       </list>
     </option>
   </component>
@@ -255,12 +240,12 @@
       <workItem from="1525311028518" duration="20360000" />
       <workItem from="1525414174421" duration="362000" />
       <workItem from="1525414550482" duration="1813000" />
-      <workItem from="1525651610793" duration="10839000" />
+      <workItem from="1525651610793" duration="11111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33374000" />
+    <option name="totallyTimeSpent" value="33646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="23" width="844" height="796" extended-state="0" />
@@ -277,10 +262,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31473532" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31473532" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.319202" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.319202" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -465,13 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3_6_input_groups.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3_7_alerts_progress.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -482,6 +460,20 @@
             <element signature="n#style#0;n#div#0;n#div#12;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#13;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_6_input_groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_8_tables_pagination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="316" column="24" selection-start-line="316" selection-start-column="24" selection-end-line="316" selection-end-column="24" />
         </state>
       </provider>
     </entry>
