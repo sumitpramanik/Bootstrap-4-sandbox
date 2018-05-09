@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029879a7-d90b-48ed-ad6c-e47fbd2cb73c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3_9_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_9_cards.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="3_9_cards.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/3_9_cards.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="204" column="37" selection-start-line="204" selection-start-column="37" selection-end-line="204" selection-end-column="37" />
+            <state relative-caret-position="290">
+              <caret line="285" column="51" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#2;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -111,7 +110,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="764" />
+    <option name="width" value="771" />
     <option name="height" value="796" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -270,15 +269,15 @@
       <workItem from="1525414550482" duration="1813000" />
       <workItem from="1525651610793" duration="16735000" />
       <workItem from="1525780405521" duration="429000" />
-      <workItem from="1525868685475" duration="1899000" />
+      <workItem from="1525868685475" duration="3805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41598000" />
+    <option name="totallyTimeSpent" value="43504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="764" height="796" extended-state="0" />
+    <frame x="0" y="23" width="771" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -292,7 +291,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31330472" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31330472" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.3531856" />
@@ -538,8 +537,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_9_cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="204" column="37" selection-start-line="204" selection-start-column="37" selection-end-line="204" selection-end-column="37" />
+        <state relative-caret-position="290">
+          <caret line="285" column="51" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
