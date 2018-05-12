@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="029879a7-d90b-48ed-ad6c-e47fbd2cb73c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/3_9_cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_9_cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_10_media_object.html" beforeDir="false" afterPath="$PROJECT_DIR$/3_10_media_object.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_2_grid_system.html" beforeDir="false" afterPath="$PROJECT_DIR$/4_2_grid_system.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,33 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2_6_spacing.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_6_spacing.html">
+      <file leaf-file-name="4_2_grid_system.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4_2_grid_system.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2490">
-              <caret line="166" column="40" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2_3_text_alignment_display.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2_3_text_alignment_display.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="120" selection-start-line="120" selection-end-line="120" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3_9_cards.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3_9_cards.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="285" column="51" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="142">
+              <caret line="158" column="10" lean-forward="true" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -50,10 +30,11 @@
     <findStrings>
       <find>stare</find>
       <find>class</find>
-      <find>class=&quot;(.*?)&quot;</find>
       <find>class=</find>
+      <find>class=&quot;(.*?)&quot;</find>
     </findStrings>
     <replaceStrings>
+      <replace />
       <replace />
     </replaceStrings>
   </component>
@@ -99,6 +80,8 @@
         <option value="$PROJECT_DIR$/3_7_alerts_progress.html" />
         <option value="$PROJECT_DIR$/3_8_tables_pagination.html" />
         <option value="$PROJECT_DIR$/3_9_cards.html" />
+        <option value="$PROJECT_DIR$/3_10_media_object.html" />
+        <option value="$PROJECT_DIR$/4_2_grid_system.html" />
       </list>
     </option>
   </component>
@@ -110,7 +93,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="771" />
+    <option name="width" value="773" />
     <option name="height" value="796" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -196,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,9 +192,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,15 +252,16 @@
       <workItem from="1525414550482" duration="1813000" />
       <workItem from="1525651610793" duration="16735000" />
       <workItem from="1525780405521" duration="429000" />
-      <workItem from="1525868685475" duration="3805000" />
+      <workItem from="1525868685475" duration="5986000" />
+      <workItem from="1526087092996" duration="135000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43504000" />
+    <option name="totallyTimeSpent" value="45820000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="771" height="796" extended-state="0" />
+    <frame x="0" y="23" width="773" height="796" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
@@ -291,10 +275,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31330472" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31330472" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3531856" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3513889" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -333,11 +317,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3_9_cards.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5235">
+          <caret line="349" column="41" lean-forward="true" selection-start-line="349" selection-start-column="41" selection-end-line="349" selection-end-column="41" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_10_media_object.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="166" column="36" selection-start-line="166" selection-start-column="36" selection-end-line="166" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_6_spacing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="166" column="40" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_3_text_alignment_display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_9_cards.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2340">
           <caret line="175" column="38" selection-start-line="175" selection-start-column="38" selection-end-line="175" selection-end-column="38" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -362,7 +376,6 @@
           <caret line="159" column="36" selection-start-line="159" selection-start-column="36" selection-end-line="159" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -521,28 +534,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2_6_spacing.html">
+    <entry file="file://$PROJECT_DIR$/3_10_media_object.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2490">
-          <caret line="166" column="40" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2_3_text_alignment_display.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        <state relative-caret-position="414">
+          <caret line="166" column="36" selection-start-line="166" selection-start-column="36" selection-end-line="166" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3_9_cards.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="285" column="51" selection-start-line="285" selection-start-column="51" selection-end-line="285" selection-end-column="51" />
+        <state relative-caret-position="454">
+          <caret line="349" column="41" selection-start-line="349" selection-start-column="41" selection-end-line="349" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_3_text_alignment_display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_6_spacing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="166" column="40" selection-start-line="166" selection-start-column="40" selection-end-line="166" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4_2_grid_system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="158" column="10" lean-forward="true" selection-start-line="158" selection-start-column="10" selection-end-line="158" selection-end-column="10" />
         </state>
       </provider>
     </entry>
